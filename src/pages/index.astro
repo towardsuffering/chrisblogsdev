@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Welcome</h1>
+      <h1>Bravo! You've found my digital nook. Welcome!</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -44,18 +44,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         My name is Chris Rotunno, and you've landed on "Chris Blogs", my
         personal platform for development, discovery, and content creation. My
-        interests are multifaceted, ranging from cat humor to entropy. I
-        encourage you to click the button below and browse the rest of my site.
+        interests are multifaceted, ranging from cat humor to entropy.
       </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
+      <p>Read the blog posts and feel free to reach out!</p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
