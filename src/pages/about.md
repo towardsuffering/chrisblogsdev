@@ -3,12 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hello, my name is Chris. Originally from Fort Collins, CO, i'm now living in Nashville, TN, after a sunny stint in Saint Petersburg, FL. My life's been thrilling, from skiing and BMX racing in my youth to diving deep into academia and technology as an adult.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I hold a BS in Operations and Information Management and an MS in Business Analytics from CU Boulder, and I'm nearing the completion of my MBA in Music Business at MTSU. My 12-year career spans retail to corporate, where I've honed my skills in Python, JS, SQL, and more.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Outside of my career, my world revolves around my love for arts and sciences, reading, creating content, the joy of caring for my cat and dog, and the quest for love and companionship. I'm actively shaping a future filled with family warmth, financial stability, and the thrill of travel while savoring the journey itself.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -16,21 +15,44 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- JS
+- PY
+- SQL
+- NoSQL
+- Hadoop
 
-## Features
+## Additional Tools
 
-Here are certain features of this site.
+- ChatGPT
+- Gemeni
+- Canva
+- PhotoPea
+- OBS Studio
+- Pro Tools
+- WireShark
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Who Am I?
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+#### Empathetic Leader
+
+- At the core of my being resonates a deep-seated empathy, mirrored in my love for words like "Love" and "Compassion." My approach to leadership is heart-centered, aiming to uplift and inspire everyone who crosses my path.
+
+#### Strategic Thinker
+
+- Equipped with "Logic," "Analysis," and "SWOT," I navigate through life's complexities with clarity and foresight. My strategies are carefully crafted puzzles, designed to bring order and understanding to the chaos of the world.
+
+#### Creative Innovater
+
+- My passion lies in innovation and creativity. Words like "Initiate," "Craft," and "Synergy" are the tools I use to mold the future. I believe in the power of turning imaginative ideas into tangible realities.
+
+#### Tech Enthusiast
+
+- I am at my most enthusiastic about tech. "Database," "Node," and "Program" are more than just terms to me; they represent a world of endless learning, exploration, and creativity.
+
+#### Nature Advocate
+
+- My connection with nature and the importance of balance in life is reflected in words like "Tree," "Root," and "Elastic." I understand that growth is a journey, one that requires resilience, adaptability, and most importantly, intuition.
+
+#### Diversity Champion
+
+- I find harmony in the balance of opposites. "Variance" and "Constant," "Stateful" and "Stateless," "Risk" and "Gratitude" coexist within my worldview, symbolizing the beautiful symphony of stability and transformation.
