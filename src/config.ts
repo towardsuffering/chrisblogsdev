@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Sat Naing",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "ChrisBlogs",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "chrisblogsog.png",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
