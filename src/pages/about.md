@@ -32,6 +32,7 @@ Outside of my career, my world revolves around my love for arts and sciences, re
 - OBS Studio
 - Pro Tools
 - Wireshark
+- Tableau
 - Docker
 
 ## Who Am I?
