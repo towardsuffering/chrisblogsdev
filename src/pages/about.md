@@ -24,12 +24,14 @@ Outside of my career, my world revolves around my love for arts and sciences, re
 ## Additional Tools
 
 - ChatGPT
-- Gemeni
+- Gemini
 - Canva
-- PhotoPea
+- Grammarly
+- Photopea
 - OBS Studio
 - Pro Tools
-- WireShark
+- Wireshark
+- Docker
 
 ## Who Am I?
 
