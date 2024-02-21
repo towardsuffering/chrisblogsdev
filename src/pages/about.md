@@ -27,6 +27,7 @@ Outside of my career, my world revolves around my love for arts and sciences, re
 - Gemini
 - Canva
 - Grammarly
+- Speechify
 - Photopea
 - OBS Studio
 - Pro Tools
