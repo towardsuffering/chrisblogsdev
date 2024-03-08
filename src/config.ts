@@ -49,12 +49,6 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Mail",
-    href: "mailto:chrisrotunno@rootlaboratories.net",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
-  },
-  {
     name: "Twitter",
     href: "https://twitter.com/ChrisRotunno",
     linkTitle: `${SITE.title} on Twitter`,
@@ -68,7 +62,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "youtube.com/@root-labs",
+    href: "https://www.youtube.com/@root-labs",
     linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
@@ -106,6 +100,12 @@ export const SOCIALS: SocialObjects = [
     name: "Discord",
     href: "https://discord.gg/zJqPQYbB6r",
     linkTitle: `${SITE.title} on Discord`,
+    active: true,
+  },
+  {
+    name: "Mail",
+    href: "mailto:chrisrotunno@rootlaboratories.net",
+    linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
   {
