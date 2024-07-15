@@ -7,7 +7,7 @@ Hello, my name is Chris. Originally from Fort Collins, CO, i'm now living in Nas
 
 I hold a BS in Operations and Information Management and an MS in Business Analytics from CU Boulder, and I completed my MBA in Music Business at MTSU. My 12-year career spans retail to corporate, where I've honed my skills in Python, JS, SQL, and more.
 
-My vision is centered on my love for all things music and AI. I picked up the guitar during COVID-19 and haven't put it down since. I also have a profound interest in machine learning algorithms and neural networks.
+My vision is centered on my love for all things music, economics, and AI. I picked up the guitar during COVID-19 and haven't put it down since. I also have a profound interest in machine learning algorithms and neural networks.
 
 I enjoy reading, learning spanish, creating content, the joy of caring for my cat and dog, and the quest for love and partnership. I'm actively shaping a future filled with family warmth, financial stability, and the thrill of travel while savoring the journey itself.
 
