@@ -3,62 +3,76 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hello, my name is Chris. Originally from Fort Collins, CO, i'm now living in Nashville, TN, after a sunny stint in Saint Petersburg, FL. My life has fluctuated, from skiing and BMX racing in my youth to diving deep into academia and technology as an adult.
-
-I hold a BS in Operations and Information Management and an MS in Business Analytics from CU Boulder, and I completed my MBA in Music Business at MTSU. My 12-year career spans retail to corporate, where I've honed my skills in Python, JS, SQL, and more.
-
-I am passionate about discovering patterns in music, behavior, economics, and tech.
-
-I enjoy reading, learning spanish, creating content, the joy of caring for my cat and dog, and the quest for love and partnership. I'm actively shaping a future filled with family warmth, financial stability, and the thrill of travel while savoring the journey itself.
+Hello, my name is Chris.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+I am a 32 year old developer based out of Nashville, Tennesse. I am passionate and committed about discovering patterns in music, behavior, economics, and tech and sharing my discoveries with the world.
 
-- JS
-- PY
-- SQL
-- NoSQL
-- Hadoop
+I enjoy reading, practicing spanish, producing and distributing music, compiling databases and digital content, caring for my cat and dog (and loved ones), and the search for beneficial connections. I envision my future to be filled with community warmth, financial prosperity, and the thrill of travel while savoring the journey itself. Life is a roller coaster, enjoy the ride 🎢.
 
-## Additional Tools
+## Mission Statement
 
-- ChatGPT
-- Gemini
-- Canva
-- Grammarly
-- Speechify
-- Photopea
-- OBS Studio
-- Pro Tools
-- Wireshark
-- Tableau
-- Docker
+To drive strategic growth for individuals, teams, and organizations by transforming complex data patterns into actionable insights while cultivating meaningful relationships. Aiming to transition from operational roles to high-impact financial positions, maximizing value creation and personal income. Committed to driving innovation and succeess, bringing analytical rigor and joy to problem-solving in the digital age.
 
-## The Real Chris Rotunno
+## Values
 
-#### Empathetic Leader
+#### Empathetic Leadership
 
-- At the core of my being resonates a deep-seated empathy, mirrored in my love for words like "Love" and "Compassion." My approach to leadership is heart-centered, aiming to uplift and inspire everyone who crosses my path.
+- I lead with compassion and empathy, striving to uplift and inspire everyone I interact with. My approach is heart-centered, focusing on building strong, supportive relationships.
 
-#### Strategic Thinker
+#### Strategic Thinking
 
-- Equipped with "Logic," "Analysis," and "SWOT," I navigate through life's complexities with clarity and foresight. My strategies are carefully crafted puzzles, designed to bring order and understanding to the chaos of the world.
+- I approach challenges with logical analysis and foresight. My strategic mindset allows me to navigate complexities, bringing clarity and understanding to challenging situations.
 
-#### Creative Innovator
+#### Creative Innovation
 
-- My passion lies in innovation and creativity. Words like "Initiate," "Craft," and "Synergy" are the tools I use to mold the future. I believe in the power of turning imaginative ideas into tangible realities.
+- I am passionate about innovation and creativity. I thrive on turning imaginative ideas into reality, constantly seeking new ways to initiate positive change and foster synergy.
 
-#### Tech Enthusiast
+#### Tech Enthusiasm
 
-- I am at my most enthusiastic about tech. "Database," "Node," and "Program" are more than just terms to me; they represent a world of endless learning, exploration, and creativity.
+- Technology is my driving force. I am consistently excited about exploring new tech frontiers, viewing areas like databases, programming, and emerging technologies as opportunities for continual learning and creativity.
 
-#### Nature Advocate
+#### Environmental Consciousness
 
-- My connection with nature and the importance of balance in life is reflected in words like "Tree," "Root," and "Elastic." I understand that growth is a journey, one that requires resilience, adaptability, and most importantly, intuition.
+- I maintain a strong connection with nature, understanding the importance of balance in both personal and professional life. My approach to growth is rooted in resilience, adaptability, and intuition, much like the natural world around us.
 
 #### Diversity Champion
 
-- I find harmony in the balance of opposites. "Variance" and "Constant," "Stateful" and "Stateless," "Risk" and "Gratitude" coexist within my worldview, symbolizing the beautiful symphony of stability and transformation.
+- I champion diversity and find strength in the interplay of different perspectives. I appreciate the harmony in balancing seeming opposites - embracing both variance and constancy, risk and gratitude, to create a well-rounded worldview.
+
+## Tools
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+  <div>
+    <ul>
+      <li>JS</li>
+      <li>PY</li>
+      <li>SQL</li>
+      <li>NoSQL</li>
+      <li>Hadoop</li>
+      <li>Claude</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>ChatGPT</li>
+      <li>Gemini</li>
+      <li>Canva</li>
+      <li>Grammarly</li>
+      <li>Speechify</li>
+      <li>Photopea</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>OBS Studio</li>
+      <li>Pro Tools</li>
+      <li>Wireshark</li>
+      <li>Tableau</li>
+      <li>Docker</li>
+    </ul>
+  </div>
+</div>
