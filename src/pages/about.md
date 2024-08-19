@@ -9,7 +9,7 @@ Hello, my name is Chris.
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-I am a single, 32 year old developer based out of Nashville, Tennesse. I am passionate and committed about discovering patterns in music, behavior, economics, and tech and sharing my discoveries with the world.
+I am a single, 32 year old developer based out of Nashville, Tennesse. I am passionate and committed to discovering patterns in music, behavior, economics, and tech and sharing my discoveries with the world.
 
 I enjoy reading, practicing spanish, producing and distributing music, compiling databases and digital content, caring for my cat and dog (and loved ones), and the search for beneficial connections. I envision my future to be filled with community warmth, financial prosperity, and the thrill of travel while savoring the journey itself. Life is a roller coaster, enjoy the ride 🎢.
 
