@@ -15,7 +15,7 @@ I enjoy reading, practicing spanish, producing and distributing music, compiling
 
 ## Mission Statement
 
-To drive strategic growth for individuals, teams, and organizations by transforming complex data patterns into actionable insights while cultivating meaningful relationships. Aiming to transition from operational roles to high-impact financial positions, maximizing value creation and personal income. Committed to driving innovation and succeess, bringing analytical rigor and joy to problem-solving in the digital age.
+On a mission to innovate digital products and cultivate internet-based businesses through strategic online presence, data-driven insights, and engaged community building. Leveraging an MS in Business Analytics and an MBA in Music Industry to drive impactful projects. Experienced in leading 10+ high-impact initiatives, generating $4.8MM+ in revenues, and bringing analytical rigor and joy to problem-solving.
 
 ## Values
 
