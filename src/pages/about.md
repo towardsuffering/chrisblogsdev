@@ -9,9 +9,9 @@ Hello, my name is Chris.
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-I am a single, 32 year old developer based out of Nashville, Tennessee. I am passionate and committed to discovering patterns in music, behavioral economics, and tech and sharing my discoveries with the world.
+I am a single, 32-year-old developer based out of Nashville, Tennessee. I am passionate and committed to discovering patterns in music, behavioral economics, and tech and sharing my discoveries with the world.
 
-I enjoy reading, practicing spanish, producing and distributing music, compiling databases and digital content, caring for my cat and dog (and loved ones), and the search for beneficial connections. I envision my future to be filled with community warmth, financial prosperity, and the thrill of travel while savoring the journey itself. Life is a roller coaster, enjoy the ride 🎢.
+I enjoy reading, practicing Spanish, producing and distributing music, compiling databases and digital content, caring for my cat and dog (and loved ones), and searching for beneficial connections. I envision my future filled with community warmth, financial prosperity, and the thrill of travel while savoring the journey itself. Life is a roller coaster; enjoy the ride 🎢.
 
 ## Mission Statement
 
@@ -33,7 +33,7 @@ On a mission to innovate digital products and cultivate internet-based businesse
 
 #### Tech Enthusiasm
 
-- Technology is my driving force. I am consistently excited about exploring new tech frontiers, viewing areas like databases, programming, and emerging technologies as opportunities for continual learning and creativity.
+- Technology is my driving force. I am consistently excited about exploring new tech frontiers and viewing areas like databases, programming, and emerging technologies as opportunities for continual learning and creativity.
 
 #### Environmental Consciousness
 
